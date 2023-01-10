@@ -11,8 +11,9 @@ export default{
 
 <template>
 <h1>{{ hello }}</h1>
-</template>
+   
 
+</template>
 <style >
 h1{
     padding: 60px;
