@@ -2,7 +2,7 @@
 export default{
     data(){
         return{
-            hello: 'ciao'
+            hello: 'La mia prima app con Vite!!!!'
         }
     }
 }
