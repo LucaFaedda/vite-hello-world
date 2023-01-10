@@ -14,4 +14,9 @@ export default{
 </template>
 
 <style >
+h1{
+    padding: 60px;
+    background-color: rgba(10, 10, 187, 0.521);
+    border-radius: 15px;
+}
 </style>
