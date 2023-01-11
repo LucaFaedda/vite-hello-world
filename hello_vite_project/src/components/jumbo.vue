@@ -13,8 +13,8 @@ export default{
 <template>
     <div class="container">
         <div class="row">
-            <div class="col-6">
-                <div class="card" style="width: 18rem;">
+            <div class="col-6 ">
+                <div class="card " style="width: 18rem;">
                     <img src="../assets/vue.svg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h2 class="card-title">Ecco cosa può fare Vite</h2>

@@ -4,6 +4,7 @@ export default{
         return{
             hello: 'La mia prima app con Vite!!!!'
         }
+        // potevo scrivere direttamente in h1 il titolo
     }
 }
 
@@ -11,7 +12,7 @@ export default{
 
 <template>
 <h1>{{ hello }}</h1>
-   
+
 
 </template>
 <style >
